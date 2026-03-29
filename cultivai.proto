@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+message AnimalData {
+  string tag_id = 1;        // ID del microchip FDX-B
+  uint32 battery_level = 2; // 0-100%
+  bool scanning = 3;        // Estado del lector
+}
