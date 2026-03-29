@@ -1,0 +1,10 @@
+CultivAI - Lector FDX-B Libre
+Copyright 2026 Brandon Fabián Vargas García
+
+This product includes software developed by third parties:
+- NimBLE-Arduino (Apache License 2.0)
+- Nanopb (Zlib License)
+- Rfid134 Library by Makuna (LGPL v2.1)
+
+The Rfid134 library is used under the terms of the GNU Lesser 
+General Public License v2.1.
